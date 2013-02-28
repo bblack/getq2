@@ -53,4 +53,4 @@ rm -rf "q2patch"
 echo "----Writing you a config file..."
 echo "vid_fullscreen 0; _windowed_mouse 1; bind a +moveleft; bind d +moveright; bind w +forward; bind s +back" > "${RESDIR}/baseq2/config.cfg"
 
-echo "---All done! Quake II launcher is now in your Applications folder. If it asks you where your baseq2 directory is, browse to ${RESDIR}"
+echo "---All done! Quake II launcher is now in your Applications folder. If it asks you where your baseq2 directory is, browse to ${RESDIR}/baseq2"
